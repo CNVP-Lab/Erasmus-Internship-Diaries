@@ -2,7 +2,7 @@
 # Internship-Diaries
 #### by Habibe Sena Dundar
 
-*University of Twente*- Supervisor: dr Funda Yildirim
+*University of Twente*- Supervisor: Dr Funda Yıldırım
 
 After my first Erasmus internship experience in Germany during my undergraduate degree, I had already decided that I wanted to do another Erasmus+ internship at least once more! With the desire and concern of creating a unique research question for my master’s thesis, I decided to work on an independent project that can contribute to both my research and career. 
 
