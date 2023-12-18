@@ -2,8 +2,6 @@
 # Internship-Diaries
 #### by Habibe Sena Dundar
 
-*University of Twente*- Supervisor: Dr Funda Yıldırım
-
 After my first Erasmus internship experience in Germany during my undergraduate degree, I had already decided that I wanted to do another Erasmus+ internship at least once more! With the desire and concern of creating a unique research question for my master’s thesis, I decided to work on an independent project that can contribute to both my research and career. 
 
 When I noticed the CVNP Lab, which I have been following, moved to the Netherlands- University of Twente (UT), I contacted with dr Funda Yildirim without any hesitation. This was a great opportunity, because I’ve been following their studies since I was an undergraduate student. At UT, Dr. Funda Yildirim is working in a research group called [Cognition, Data, and Education (CODE)](https://www.utwente.nl/en/bms/code/) which focuses on the studies of technology-based cognition and behavior.
